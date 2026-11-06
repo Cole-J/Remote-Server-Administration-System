@@ -1,1 +1,1 @@
-A program for managing clustered remote systems
+Remote-Server-Administration-System
